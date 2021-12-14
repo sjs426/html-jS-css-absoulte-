@@ -1,0 +1,57 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+h1 {
+    background-color: lightblue;
+}
+
+h2 {
+    background-color: yellow;
+}
+
+li {
+    color: blue;
+}
+
+li em {
+    color: blueviolet;
+}
+
+.me {
+    color: green;
+}
+
+#email:hover {
+    color: red;
+}
+
+.couple {
+    position: absolute;
+    top: 150px;
+    right: 25px;
+    z-index: 1;
+}
+
+.bear {
+    position: absolute;
+    top: 150px;
+    right: 25px;
+    z-index: 2;
+}
+
+.winter {
+    position: absolute;
+    top: 150px;
+    right: 25px;
+    z-index: 3;
+}
+
+.gift{ 
+    border: 2px solid black;
+    padding: 25px;
+    margin-right: 65%;
+    background: url("gift.png");
+    background-size: 20%;
+}
